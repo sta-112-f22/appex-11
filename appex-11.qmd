@@ -1,0 +1,14 @@
+---
+title: "Appex 11"
+format: html
+editor: visual
+---
+
+```{r}
+#| label: load-package
+#| message: false
+#| warning: false
+
+library(tidyverse)
+
+```
